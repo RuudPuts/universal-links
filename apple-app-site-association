@@ -1,11 +1,11 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "3F27UVWA42.com.jumbo.app.debug",
-        "paths": ["*"]
-      }
-    ]
-  }
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": ""3F27UVWA42.com.jumbo.app.debug"",
+				"paths": [ "*"]
+			}
+		]
+	}
 }
