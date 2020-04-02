@@ -3,7 +3,19 @@
     "apps": [],
     "details": [
       {
-        "appID": "3F27UVWA42.com.jumbo.app.debug",
+        "appID": "Z2U8DM5QS9.com.jumbo.app",
+        "paths": ["*"]
+      },
+      {
+        "appID": "3F27UVWA42.com.jumbo.app.alpha",
+        "paths": ["*"]
+      },
+      {
+        "appID": "3F27UVWA42.com.jumbo.app.beta",
+        "paths": ["*"]
+      },
+      {
+        "appID": "Z2U8DM5QS9.com.jumbo.app.debug",
         "paths": ["*"]
       }
     ]
