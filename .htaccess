@@ -1,1 +1,3 @@
 AddType application/json apple-app-site-association
+RewriteRule ^acc-ish/(.*)$ https://acc-ish.jumbo.com/$1 [R=301,NC,L]
+RewriteRule ^acc-www/(.*)$ https://acc-www.jumbo.com/$1 [R=301,NC,L]
