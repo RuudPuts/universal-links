@@ -4,19 +4,31 @@
     "details": [
       {
         "appID": "Z2U8DM5QS9.com.jumbo.app",
-        "paths": ["*"]
+        "paths": [
+          "/lijstjes/*",
+          "/recepten/*"
+        ]
       },
       {
         "appID": "3F27UVWA42.com.jumbo.app.alpha",
-        "paths": ["*"]
+        "paths": [
+          "/lijstjes/*",
+          "/recepten/*"
+        ]
       },
       {
         "appID": "3F27UVWA42.com.jumbo.app.beta",
-        "paths": ["*"]
+        "paths": [
+          "/lijstjes/*",
+          "/recepten/*"
+        ]
       },
       {
         "appID": "Z2U8DM5QS9.com.jumbo.app.debug",
-        "paths": ["*"]
+        "paths": [
+          "/lijstjes/*",
+          "/recepten/*"
+        ]
       }
     ]
   }
