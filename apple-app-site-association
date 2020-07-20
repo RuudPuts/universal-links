@@ -5,28 +5,44 @@
       {
         "appID": "Z2U8DM5QS9.com.jumbo.app",
         "paths": [
+          "/aanbiedingen",
+          "/aanbiedingen/*",
+          "/lijstjes",
           "/lijstjes/*",
+          "/recepten",
           "/recepten/*"
         ]
       },
       {
         "appID": "3F27UVWA42.com.jumbo.app.alpha",
         "paths": [
+          "/aanbiedingen",
+          "/aanbiedingen/*",
+          "/lijstjes",
           "/lijstjes/*",
+          "/recepten",
           "/recepten/*"
         ]
       },
       {
         "appID": "3F27UVWA42.com.jumbo.app.beta",
         "paths": [
+          "/aanbiedingen",
+          "/aanbiedingen/*",
+          "/lijstjes",
           "/lijstjes/*",
+          "/recepten",
           "/recepten/*"
         ]
       },
       {
         "appID": "Z2U8DM5QS9.com.jumbo.app.debug",
         "paths": [
+          "/aanbiedingen",
+          "/aanbiedingen/*",
+          "/lijstjes",
           "/lijstjes/*",
+          "/recepten",
           "/recepten/*"
         ]
       }
