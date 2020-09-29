@@ -10,7 +10,7 @@
           "/lijstjes",
           "/lijstjes/lijst.*.html",
           "/recepten",
-          "/recepten/-*-"
+          "/recepten/*"
         ]
       },
       {
@@ -21,7 +21,7 @@
           "/lijstjes",
           "/lijstjes/lijst.*.html",
           "/recepten",
-          "/recepten/-*-"
+          "/recepten/*"
         ]
       },
       {
@@ -43,7 +43,7 @@
           "/lijstjes",
           "/lijstjes/lijst.*.html",
           "/recepten",
-          "/recepten/-*-"
+          "/recepten/*"
         ]
       }
     ]
