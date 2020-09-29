@@ -8,7 +8,7 @@
           "/aanbiedingen",
           "/aanbiedingen/*",
           "/lijstjes",
-          "/lijstjes/*",
+          "/lijstjes/lijst.*.html",
           "/recepten",
           "/recepten/*"
         ]
@@ -19,7 +19,7 @@
           "/aanbiedingen",
           "/aanbiedingen/*",
           "/lijstjes",
-          "/lijstjes/*",
+          "/lijstjes/lijst.*.html",
           "/recepten",
           "/recepten/*"
         ]
@@ -30,7 +30,7 @@
           "/aanbiedingen",
           "/aanbiedingen/*",
           "/lijstjes",
-          "/lijstjes/*",
+          "/lijstjes/lijst.*.html",
           "/recepten",
           "/recepten/*"
         ]
@@ -41,7 +41,7 @@
           "/aanbiedingen",
           "/aanbiedingen/*",
           "/lijstjes",
-          "/lijstjes/*",
+          "/lijstjes/lijst.*.html",
           "/recepten",
           "/recepten/*"
         ]
