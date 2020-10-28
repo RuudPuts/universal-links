@@ -1,5 +1,13 @@
 {
   "applinks": {
+    "webcredentials": {
+      "apps": [
+        "Z2U8DM5QS9.com.jumbo.app",
+        "3F27UVWA42.com.jumbo.app.alpha",
+        "3F27UVWA42.com.jumbo.app.beta",
+        "Z2U8DM5QS9.com.jumbo.app.debug"
+      ]
+    },
     "apps": [],
     "details": [
       {
