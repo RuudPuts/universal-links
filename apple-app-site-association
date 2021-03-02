@@ -17,6 +17,7 @@
           "/aanbiedingen/*/*",
           "/lijstjes",
           "/lijstjes/lijst.*.html",
+          "/lijstjes/smulweb",
           "/recepten",
           "/recepten/*"
         ]
@@ -28,6 +29,7 @@
           "/aanbiedingen/*/*",
           "/lijstjes",
           "/lijstjes/lijst.*.html",
+          "/lijstjes/smulweb",
           "/recepten",
           "/recepten/*"
         ]
@@ -39,8 +41,9 @@
           "/aanbiedingen/*/*",
           "/lijstjes",
           "/lijstjes/lijst.*.html",
+          "/lijstjes/smulweb",
           "/recepten",
-          "/recepten/-*-"
+          "/recepten/*"
         ]
       },
       {
@@ -50,6 +53,7 @@
           "/aanbiedingen/*/*",
           "/lijstjes",
           "/lijstjes/lijst.*.html",
+          "/lijstjes/smulweb",
           "/recepten",
           "/recepten/*"
         ]
